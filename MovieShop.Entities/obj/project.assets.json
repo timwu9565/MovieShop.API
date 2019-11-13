@@ -185,11 +185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\wutia\\source\\repos\\MovieShop.API\\MovieShop.Entities\\MovieShop.Entities.csproj",
+      "projectUniqueName": "C:\\Users\\wutia\\Desktop\\MovieStoreAPI-project\\MovieShop.Entities\\MovieShop.Entities.csproj",
       "projectName": "MovieShop.Entities",
-      "projectPath": "C:\\Users\\wutia\\source\\repos\\MovieShop.API\\MovieShop.Entities\\MovieShop.Entities.csproj",
+      "projectPath": "C:\\Users\\wutia\\Desktop\\MovieStoreAPI-project\\MovieShop.Entities\\MovieShop.Entities.csproj",
       "packagesPath": "C:\\Users\\wutia\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\wutia\\source\\repos\\MovieShop.API\\MovieShop.Entities\\obj\\",
+      "outputPath": "C:\\Users\\wutia\\Desktop\\MovieStoreAPI-project\\MovieShop.Entities\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

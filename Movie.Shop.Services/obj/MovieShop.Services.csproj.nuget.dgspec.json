@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\wutia\\source\\repos\\MovieShop.API\\Movie.Shop.Services\\MovieShop.Services.csproj": {}
+    "C:\\Users\\wutia\\Desktop\\MovieStoreAPI-project\\Movie.Shop.Services\\MovieShop.Services.csproj": {}
   },
   "projects": {
-    "C:\\Users\\wutia\\source\\repos\\MovieShop.API\\Movie.Shop.Services\\MovieShop.Services.csproj": {
+    "C:\\Users\\wutia\\Desktop\\MovieStoreAPI-project\\Movie.Shop.Services\\MovieShop.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\wutia\\source\\repos\\MovieShop.API\\Movie.Shop.Services\\MovieShop.Services.csproj",
+        "projectUniqueName": "C:\\Users\\wutia\\Desktop\\MovieStoreAPI-project\\Movie.Shop.Services\\MovieShop.Services.csproj",
         "projectName": "MovieShop.Services",
-        "projectPath": "C:\\Users\\wutia\\source\\repos\\MovieShop.API\\Movie.Shop.Services\\MovieShop.Services.csproj",
+        "projectPath": "C:\\Users\\wutia\\Desktop\\MovieStoreAPI-project\\Movie.Shop.Services\\MovieShop.Services.csproj",
         "packagesPath": "C:\\Users\\wutia\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\wutia\\source\\repos\\MovieShop.API\\Movie.Shop.Services\\obj\\",
+        "outputPath": "C:\\Users\\wutia\\Desktop\\MovieStoreAPI-project\\Movie.Shop.Services\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -30,11 +30,11 @@
         "frameworks": {
           "netstandard2.1": {
             "projectReferences": {
-              "C:\\Users\\wutia\\source\\repos\\MovieShop.API\\MovieShop.Data\\MovieShop.Data.csproj": {
-                "projectPath": "C:\\Users\\wutia\\source\\repos\\MovieShop.API\\MovieShop.Data\\MovieShop.Data.csproj"
+              "C:\\Users\\wutia\\Desktop\\MovieStoreAPI-project\\MovieShop.Data\\MovieShop.Data.csproj": {
+                "projectPath": "C:\\Users\\wutia\\Desktop\\MovieStoreAPI-project\\MovieShop.Data\\MovieShop.Data.csproj"
               },
-              "C:\\Users\\wutia\\source\\repos\\MovieShop.API\\MovieShop.Entities\\MovieShop.Entities.csproj": {
-                "projectPath": "C:\\Users\\wutia\\source\\repos\\MovieShop.API\\MovieShop.Entities\\MovieShop.Entities.csproj"
+              "C:\\Users\\wutia\\Desktop\\MovieStoreAPI-project\\MovieShop.Entities\\MovieShop.Entities.csproj": {
+                "projectPath": "C:\\Users\\wutia\\Desktop\\MovieStoreAPI-project\\MovieShop.Entities\\MovieShop.Entities.csproj"
               }
             }
           }
@@ -72,14 +72,14 @@
         }
       }
     },
-    "C:\\Users\\wutia\\source\\repos\\MovieShop.API\\MovieShop.Data\\MovieShop.Data.csproj": {
+    "C:\\Users\\wutia\\Desktop\\MovieStoreAPI-project\\MovieShop.Data\\MovieShop.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\wutia\\source\\repos\\MovieShop.API\\MovieShop.Data\\MovieShop.Data.csproj",
+        "projectUniqueName": "C:\\Users\\wutia\\Desktop\\MovieStoreAPI-project\\MovieShop.Data\\MovieShop.Data.csproj",
         "projectName": "MovieShop.Data",
-        "projectPath": "C:\\Users\\wutia\\source\\repos\\MovieShop.API\\MovieShop.Data\\MovieShop.Data.csproj",
+        "projectPath": "C:\\Users\\wutia\\Desktop\\MovieStoreAPI-project\\MovieShop.Data\\MovieShop.Data.csproj",
         "packagesPath": "C:\\Users\\wutia\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\wutia\\source\\repos\\MovieShop.API\\MovieShop.Data\\obj\\",
+        "outputPath": "C:\\Users\\wutia\\Desktop\\MovieStoreAPI-project\\MovieShop.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -98,8 +98,8 @@
         "frameworks": {
           "netstandard2.1": {
             "projectReferences": {
-              "C:\\Users\\wutia\\source\\repos\\MovieShop.API\\MovieShop.Entities\\MovieShop.Entities.csproj": {
-                "projectPath": "C:\\Users\\wutia\\source\\repos\\MovieShop.API\\MovieShop.Entities\\MovieShop.Entities.csproj"
+              "C:\\Users\\wutia\\Desktop\\MovieStoreAPI-project\\MovieShop.Entities\\MovieShop.Entities.csproj": {
+                "projectPath": "C:\\Users\\wutia\\Desktop\\MovieStoreAPI-project\\MovieShop.Entities\\MovieShop.Entities.csproj"
               }
             }
           }
@@ -145,14 +145,14 @@
         }
       }
     },
-    "C:\\Users\\wutia\\source\\repos\\MovieShop.API\\MovieShop.Entities\\MovieShop.Entities.csproj": {
+    "C:\\Users\\wutia\\Desktop\\MovieStoreAPI-project\\MovieShop.Entities\\MovieShop.Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\wutia\\source\\repos\\MovieShop.API\\MovieShop.Entities\\MovieShop.Entities.csproj",
+        "projectUniqueName": "C:\\Users\\wutia\\Desktop\\MovieStoreAPI-project\\MovieShop.Entities\\MovieShop.Entities.csproj",
         "projectName": "MovieShop.Entities",
-        "projectPath": "C:\\Users\\wutia\\source\\repos\\MovieShop.API\\MovieShop.Entities\\MovieShop.Entities.csproj",
+        "projectPath": "C:\\Users\\wutia\\Desktop\\MovieStoreAPI-project\\MovieShop.Entities\\MovieShop.Entities.csproj",
         "packagesPath": "C:\\Users\\wutia\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\wutia\\source\\repos\\MovieShop.API\\MovieShop.Entities\\obj\\",
+        "outputPath": "C:\\Users\\wutia\\Desktop\\MovieStoreAPI-project\\MovieShop.Entities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -8501,11 +8501,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\wutia\\source\\repos\\MovieShop.API\\MovieShop.API\\MovieShop.API.csproj",
+      "projectUniqueName": "C:\\Users\\wutia\\Desktop\\MovieStoreAPI-project\\MovieShop.API\\MovieShop.API.csproj",
       "projectName": "MovieShop.API",
-      "projectPath": "C:\\Users\\wutia\\source\\repos\\MovieShop.API\\MovieShop.API\\MovieShop.API.csproj",
+      "projectPath": "C:\\Users\\wutia\\Desktop\\MovieStoreAPI-project\\MovieShop.API\\MovieShop.API.csproj",
       "packagesPath": "C:\\Users\\wutia\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\wutia\\source\\repos\\MovieShop.API\\MovieShop.API\\obj\\",
+      "outputPath": "C:\\Users\\wutia\\Desktop\\MovieStoreAPI-project\\MovieShop.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -8524,14 +8524,14 @@
       "frameworks": {
         "netcoreapp3.0": {
           "projectReferences": {
-            "C:\\Users\\wutia\\source\\repos\\MovieShop.API\\Movie.Shop.Services\\MovieShop.Services.csproj": {
-              "projectPath": "C:\\Users\\wutia\\source\\repos\\MovieShop.API\\Movie.Shop.Services\\MovieShop.Services.csproj"
+            "C:\\Users\\wutia\\Desktop\\MovieStoreAPI-project\\Movie.Shop.Services\\MovieShop.Services.csproj": {
+              "projectPath": "C:\\Users\\wutia\\Desktop\\MovieStoreAPI-project\\Movie.Shop.Services\\MovieShop.Services.csproj"
             },
-            "C:\\Users\\wutia\\source\\repos\\MovieShop.API\\MovieShop.Data\\MovieShop.Data.csproj": {
-              "projectPath": "C:\\Users\\wutia\\source\\repos\\MovieShop.API\\MovieShop.Data\\MovieShop.Data.csproj"
+            "C:\\Users\\wutia\\Desktop\\MovieStoreAPI-project\\MovieShop.Data\\MovieShop.Data.csproj": {
+              "projectPath": "C:\\Users\\wutia\\Desktop\\MovieStoreAPI-project\\MovieShop.Data\\MovieShop.Data.csproj"
             },
-            "C:\\Users\\wutia\\source\\repos\\MovieShop.API\\MovieShop.Entities\\MovieShop.Entities.csproj": {
-              "projectPath": "C:\\Users\\wutia\\source\\repos\\MovieShop.API\\MovieShop.Entities\\MovieShop.Entities.csproj"
+            "C:\\Users\\wutia\\Desktop\\MovieStoreAPI-project\\MovieShop.Entities\\MovieShop.Entities.csproj": {
+              "projectPath": "C:\\Users\\wutia\\Desktop\\MovieStoreAPI-project\\MovieShop.Entities\\MovieShop.Entities.csproj"
             }
           }
         }
