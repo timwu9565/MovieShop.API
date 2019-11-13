@@ -1,0 +1,13 @@
+C:\Users\wutia\source\repos\MovieShop.API\Movie.Shop.Services\bin\Debug\netstandard2.1\MovieShop.Services.deps.json
+C:\Users\wutia\source\repos\MovieShop.API\Movie.Shop.Services\bin\Debug\netstandard2.1\MovieShop.Services.dll
+C:\Users\wutia\source\repos\MovieShop.API\Movie.Shop.Services\bin\Debug\netstandard2.1\MovieShop.Services.pdb
+C:\Users\wutia\source\repos\MovieShop.API\Movie.Shop.Services\bin\Debug\netstandard2.1\MovieShop.Data.dll
+C:\Users\wutia\source\repos\MovieShop.API\Movie.Shop.Services\bin\Debug\netstandard2.1\MovieShop.Entities.dll
+C:\Users\wutia\source\repos\MovieShop.API\Movie.Shop.Services\bin\Debug\netstandard2.1\MovieShop.Data.pdb
+C:\Users\wutia\source\repos\MovieShop.API\Movie.Shop.Services\bin\Debug\netstandard2.1\MovieShop.Entities.pdb
+C:\Users\wutia\source\repos\MovieShop.API\Movie.Shop.Services\obj\Debug\netstandard2.1\MovieShop.Services.csprojAssemblyReference.cache
+C:\Users\wutia\source\repos\MovieShop.API\Movie.Shop.Services\obj\Debug\netstandard2.1\MovieShop.Services.AssemblyInfoInputs.cache
+C:\Users\wutia\source\repos\MovieShop.API\Movie.Shop.Services\obj\Debug\netstandard2.1\MovieShop.Services.AssemblyInfo.cs
+C:\Users\wutia\source\repos\MovieShop.API\Movie.Shop.Services\obj\Debug\netstandard2.1\MovieShop.Services.csproj.CopyComplete
+C:\Users\wutia\source\repos\MovieShop.API\Movie.Shop.Services\obj\Debug\netstandard2.1\MovieShop.Services.dll
+C:\Users\wutia\source\repos\MovieShop.API\Movie.Shop.Services\obj\Debug\netstandard2.1\MovieShop.Services.pdb

@@ -1,0 +1,11 @@
+C:\Users\wutia\source\repos\MovieShop.API\MovieShop.Data\bin\Debug\netstandard2.1\MovieShop.Data.deps.json
+C:\Users\wutia\source\repos\MovieShop.API\MovieShop.Data\bin\Debug\netstandard2.1\MovieShop.Data.dll
+C:\Users\wutia\source\repos\MovieShop.API\MovieShop.Data\obj\Debug\netstandard2.1\MovieShop.Data.csprojAssemblyReference.cache
+C:\Users\wutia\source\repos\MovieShop.API\MovieShop.Data\obj\Debug\netstandard2.1\MovieShop.Data.AssemblyInfoInputs.cache
+C:\Users\wutia\source\repos\MovieShop.API\MovieShop.Data\obj\Debug\netstandard2.1\MovieShop.Data.AssemblyInfo.cs
+C:\Users\wutia\source\repos\MovieShop.API\MovieShop.Data\bin\Debug\netstandard2.1\MovieShop.Entities.dll
+C:\Users\wutia\source\repos\MovieShop.API\MovieShop.Data\bin\Debug\netstandard2.1\MovieShop.Data.pdb
+C:\Users\wutia\source\repos\MovieShop.API\MovieShop.Data\bin\Debug\netstandard2.1\MovieShop.Entities.pdb
+C:\Users\wutia\source\repos\MovieShop.API\MovieShop.Data\obj\Debug\netstandard2.1\MovieShop.Data.csproj.CopyComplete
+C:\Users\wutia\source\repos\MovieShop.API\MovieShop.Data\obj\Debug\netstandard2.1\MovieShop.Data.dll
+C:\Users\wutia\source\repos\MovieShop.API\MovieShop.Data\obj\Debug\netstandard2.1\MovieShop.Data.pdb
